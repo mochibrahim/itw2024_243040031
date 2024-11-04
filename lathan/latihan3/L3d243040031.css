@@ -1,0 +1,22 @@
+body {background-color: aqua;}
+h4 {
+    text-align: right;
+}
+h4 {font-style: italic;}
+h1 {font-family: 'georgia';}
+h1 {font-family: 'comic sans ms';}
+h1 {font-size: 60px;}
+h1 {color: blue;}
+a#men {color: aliceblue;
+font-size: large;}
+p#men {color: rgb(255, 159, 16);
+text-align: center;
+}
+p#cihuy {text-align: center;}
+p#cihuy {line-height: 2;}
+#men1 {color: aliceblue;}
+#men1:hover { color: brown;}
+#wel:hover {background-color: blue;}
+#wel:hover {color: aliceblue;}
+a#men1 {color: aliceblue;text-decoration: none;}
+#wel {font-weight: 900;text-decoration: none;}
